@@ -8,7 +8,7 @@ javaprojectsCollector 收集了从javaweb、ssm到spring boot、spring cloud学�
 🟨 **ssm**
 
 🟩 **spring boot**
-* ![新冠病例追踪器](https://github.com/hyisangie/coronavirustracker_springboot.git) *springboot + thymeleaf + bootstrap*
+* [新冠病例追踪器](https://github.com/hyisangie/coronavirustracker_springboot.git) *springboot + thymeleaf + bootstrap*
 
 🟦 **spring cloud**
 
